@@ -17,8 +17,13 @@ This project involves a Python script designed to scrape high school names from 
 3. **Output**: The script writes the extracted high school names and their corresponding LinkedIn profile paths to `output_high_schools.csv`.
 
 ## **Example**
-**This is an example of how the simulated LinkedIn HTML file looks like, taken from profile number 5**
+**This is an example of how the simulated LinkedIn HTML files look like, taken from profile number 5:**
 <img width="400" alt="LinkedIn HTML ss" src="https://github.com/user-attachments/assets/51266e57-900d-4071-aa71-d73b0554c55d">
+For clarification, not all 10 HTML files are included in the repository. A few representative examples are provided.
+
+## **Output**
+**And as included in the repository, this is what the output csv file looks like:**
+<img width="400" alt="Output_csv ss" src="https://github.com/user-attachments/assets/8b3ed0fd-5161-424f-9c71-07419d3d32f6">
 
 
 ## **Usage**
