@@ -19,7 +19,8 @@ This project involves a Python script designed to scrape high school names from 
 ## **Example**
 **This is an example of how the simulated LinkedIn HTML files look like, taken from profile number 5:**
 <img width="400" alt="LinkedIn HTML ss" src="https://github.com/user-attachments/assets/51266e57-900d-4071-aa71-d73b0554c55d">
-For clarification, not all 10 HTML files are included in the repository. A few representative examples are provided.
+
+NOTE : For clarification, not all 10 HTML files are included in the repository. A few representative examples are provided.
 
 ## **Output**
 **And as included in the repository, this is what the output csv file looks like:**
